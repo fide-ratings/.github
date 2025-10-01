@@ -1,4 +1,4 @@
 FIDE ratings is an open-source project, built to retrieve the ratings of chess players in both API and UI (telegram bot) applications.
 
-* [List of available APIs in Swagger](https://fideratings.uz/api)
-* [Client version of fide ratings (telegram bot)](https://t.me/fide_ratings_bot)
+* List of available APIs in Swagger - [currently in here.](https://fide-ratings-api-6abb80660dea.herokuapp.com/swagger-ui/index.html) Soon, will be available in [here](https://fideratings.uz/api) 
+* Client version of fide ratings - [telegram bot](https://t.me/fide_ratings_bot)
